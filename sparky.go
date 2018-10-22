@@ -1,6 +1,8 @@
-package github.com/fly0c8/sparky
+package sparky
 
-import ("fmt")
+import (
+	"fmt"
+)
 
 func Hi() {
 	fmt.Println("Hello from sparky")
